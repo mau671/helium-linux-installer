@@ -3,7 +3,7 @@
 set -e
 
 # URL del script principal de Helium
-HELIUM_SCRIPT_URL="https://raw.githubusercontent.com/tu-usuario/helium-linux-installer/main/helium.sh"
+HELIUM_SCRIPT_URL="https://raw.githubusercontent.com/mau671/helium-linux-installer/main/helium.sh"
 
 # Binario local del usuario
 LOCAL_BIN="$HOME/.local/bin"
